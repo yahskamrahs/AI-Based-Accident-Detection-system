@@ -20,7 +20,7 @@
 
 | Detection Feed | Accident Alert | Email Notification |
 |:--------------:|:--------------:|:-----------------:|
-| ![Detection](screenshots/detection.png) | ![Alert](screenshots/alert.png) | ![Email](screenshots/email.png) |
+| ![Detection](version1/images/detection-feed.png) | ![Alert](screenshots/alert.png) | ![Email](screenshots/email.png) |
 
 > 💡 Add screenshots of your detection feed, bounding box output, and alert emails to a `/screenshots` folder.
 
