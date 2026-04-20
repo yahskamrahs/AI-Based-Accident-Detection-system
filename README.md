@@ -20,7 +20,7 @@
 
 | Detection Feed | Accident Alert |
 |:--------------:|:--------------:|
-| ![Detection](Version 1/images/alert.png) | ![Alert](Version 1/images/alert.png)|
+| ![Detection](images/alert.png) | ![Alert](images/alert.png)|
 
 
 ---
